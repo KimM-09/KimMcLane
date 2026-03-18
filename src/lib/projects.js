@@ -2,7 +2,7 @@ export const projects = [
     {
         id: 1,
         title: 'NotePad',
-        image: 'src/assets/Notes-App.png',
+        image: 'public/assets/Notes-App.png',
         description: 'Full stack note-taking application built with React, Node.js, Express, and MongoDB.',
         tech: ['React', 'Node.js', 'Express', 'MongoDB'],
         github: 'https://github.com/KimM-09/NotePad',
@@ -11,7 +11,7 @@ export const projects = [
     {
         id: 2,
         title: 'Pomodoro Timer',
-        image: 'src/assets/Pomodoro-Timer.png',
+        image: 'public/assets/Pomodoro-Timer.png',
         description: 'A Pomodoro timer application that helps users manage their time.',
         tech: ['React', 'CSS'],
         github: 'https://github.com/KimM-09/Pomodoro-Timer',
@@ -20,7 +20,7 @@ export const projects = [
     {
         id: 3,
         title: 'Countdown Timer',
-        image: 'src/assets/TimerExe.png',
+        image: 'public/assets/TimerExe.png',
         description: 'A simple countdown timer application recreated from an old .exe file found on a computer.',
         tech: ['HTML', 'CSS', 'JavaScript'],
         github: 'https://github.com/KimM-09/timer',
@@ -29,7 +29,7 @@ export const projects = [
     {
         id: 4,
         title: 'Rock Paper Scissors Game',
-        image: 'src/assets/RPS.png',
+        image: 'public/assets/RPS.png',
         description: 'A classic Rock Paper Scissors game implemented in JavaScript with a clean and responsive UI.',
         tech: ['HTML', 'CSS', 'JavaScript'],
         github: 'https://github.com/KimM-09/Rock-Paper-Scissors',
@@ -39,7 +39,7 @@ export const projects = [
     {
         id: 5,
         title: 'Palindrome Checker',
-        image: 'src/assets/palimdrome-sq.png',
+        image: 'public/assets/palimdrome-sq.png',
         description: 'A simple web app that checks if the given string is a palindrome.',
         tech: ['HTML', 'CSS', 'JavaScript'],
         github: 'https://github.com/KimM-09/Palindrome-Checker',
@@ -48,7 +48,7 @@ export const projects = [
     {
         id: 6,
         title: 'Jaguar Landing Page',
-        image: 'src/assets/Jag-Landing-Page-SQ.png',
+        image: 'public/assets/Jag-Landing-Page-SQ.png',
         description: 'A landing page for Jaguar showcasing the R75 model.',
         tech: ['HTML', 'CSS'],
         github: 'https://github.com/KimM-09/Jag-landing-page-clone',
@@ -57,7 +57,7 @@ export const projects = [
     {
         id: 7,
         title: 'ThinkfulCupid',
-        image: 'src/assets/thinkful-cupid.png',
+        image: 'public/assets/thinkful-cupid.png',
         description: 'A responsive frontend for ThinkfulCupid.',
         tech: ['HTML', 'CSS'],
         github: '',

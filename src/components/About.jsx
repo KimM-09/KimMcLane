@@ -20,7 +20,7 @@ const About = () => {
         <p>In addition to my technical skills, I bring a strong work ethic, attention to detail, and a passion for continuous learning. I am eager to contribute my skills and enthusiasm to a dynamic team, and I am excited about the opportunity to grow and develop as a software engineer.</p> <p>When I'm not coding, I enjoy cooking, baking, yoga, and playing the occasional video game. Feel free to explore my projects and get in touch!</p>
       </div>
       <div className='z-50'>
-        <img src='public/assets/stylized-me1.png' alt='Kim McLane' className='w-sm md:w-lg lg:w-md'/>
+        <img src='/assets/stylized-me1.png' alt='Kim McLane' className='w-sm md:w-lg lg:w-md'/>
       </div>
       </div>
       </div>
